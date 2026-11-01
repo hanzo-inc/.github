@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanzoai/.github/main/profile/logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanzoai/.github/main/profile/logo-light.svg">
-    <img src="https://raw.githubusercontent.com/hanzoai/.github/main/profile/logo-dark.svg" alt="Hanzo Inc." width="320">
+    <img src="https://raw.githubusercontent.com/hanzoai/.github/main/profile/logo-dark.svg" alt="Hanzo Inc." width="120">
   </picture>
 </p>
 
